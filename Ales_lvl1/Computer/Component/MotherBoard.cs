@@ -11,7 +11,7 @@ namespace Ales_lvl1.Computers
         public int    PCExSlots { get; private set; }
         public string Color     { get; private set; }
 
-        internal override void ExtentionDataField(object data)
+        protected override void ExtentionDataField(object data)
         {
             if (data != null) 
             {

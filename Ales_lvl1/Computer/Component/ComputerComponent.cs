@@ -31,7 +31,7 @@ namespace Ales_lvl1.Computers
             ExtentionDataField("some load data");
         }
 
-        internal virtual void ExtentionDataField(object data) { }
+        protected virtual void ExtentionDataField(object data) { }
 
         // При установки значений можно сделать обработку этих самых значений
         /// <summary>

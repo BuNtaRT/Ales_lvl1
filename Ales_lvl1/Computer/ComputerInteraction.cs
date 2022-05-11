@@ -26,6 +26,7 @@ namespace Ales_lvl1.Computers
             TurnOff(computer);
             return TurnOn(computer);
         }
+
         public static bool Sell(Computer computer) 
         {
             int price = computer.GetPCPrice();

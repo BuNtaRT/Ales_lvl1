@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ales_lvl1/1.0.0": {
+        "runtime": {
+          "Ales_lvl1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ales_lvl1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

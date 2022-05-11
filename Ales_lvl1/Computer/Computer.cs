@@ -33,6 +33,7 @@ namespace Ales_lvl1.Computers
             _applications.Remove(app);
             return true;
         }
+
         /// <summary>
         /// Удаление приложения по индексу
         /// </summary>
@@ -43,6 +44,7 @@ namespace Ales_lvl1.Computers
             _applications.RemoveAt(app);
             return true;
         }
+
         /// <summary>
         /// Получение всех установленных приложений
         /// </summary>
@@ -111,7 +113,6 @@ namespace Ales_lvl1.Computers
             return oldComponent;
         }
 
-
         /// <summary>
         /// Получить колличество лома в компьютере
         /// </summary>
@@ -165,6 +166,5 @@ namespace Ales_lvl1.Computers
             else
                 return false;
         }
-
     }
 }

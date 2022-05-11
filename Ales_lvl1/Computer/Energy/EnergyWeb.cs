@@ -8,8 +8,8 @@ namespace Ales_lvl1.Computers.Energy
 {
     public static class EnergyWeb
     {
-        private static int _limitPower = 500;
         public static int  CurentPower { get; private set; }
+        private static int _limitPower = 500;
 
         private static List<Computer> _computers = new List<Computer>();
 

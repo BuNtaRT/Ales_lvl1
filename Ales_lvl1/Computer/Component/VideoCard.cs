@@ -18,7 +18,7 @@ namespace Ales_lvl1.Computers
             base.SetData(scalp, price, requiredPower , model);
         }
 
-        internal override void ExtentionDataField(object data)
+        protected override void ExtentionDataField(object data)
         {
             if(data != null)
                 AddData = (string)data;

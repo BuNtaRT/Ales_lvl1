@@ -1,0 +1,16 @@
+C:\Users\BuNtaRT\Documents\TestWork\Ales_lvl1\Ales_lvl1\bin\Debug\net5.0\Ales_lvl1.exe
+C:\Users\BuNtaRT\Documents\TestWork\Ales_lvl1\Ales_lvl1\bin\Debug\net5.0\Ales_lvl1.deps.json
+C:\Users\BuNtaRT\Documents\TestWork\Ales_lvl1\Ales_lvl1\bin\Debug\net5.0\Ales_lvl1.runtimeconfig.json
+C:\Users\BuNtaRT\Documents\TestWork\Ales_lvl1\Ales_lvl1\bin\Debug\net5.0\Ales_lvl1.runtimeconfig.dev.json
+C:\Users\BuNtaRT\Documents\TestWork\Ales_lvl1\Ales_lvl1\bin\Debug\net5.0\Ales_lvl1.dll
+C:\Users\BuNtaRT\Documents\TestWork\Ales_lvl1\Ales_lvl1\bin\Debug\net5.0\ref\Ales_lvl1.dll
+C:\Users\BuNtaRT\Documents\TestWork\Ales_lvl1\Ales_lvl1\bin\Debug\net5.0\Ales_lvl1.pdb
+C:\Users\BuNtaRT\Documents\TestWork\Ales_lvl1\Ales_lvl1\obj\Debug\net5.0\Ales_lvl1.csproj.AssemblyReference.cache
+C:\Users\BuNtaRT\Documents\TestWork\Ales_lvl1\Ales_lvl1\obj\Debug\net5.0\Ales_lvl1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BuNtaRT\Documents\TestWork\Ales_lvl1\Ales_lvl1\obj\Debug\net5.0\Ales_lvl1.AssemblyInfoInputs.cache
+C:\Users\BuNtaRT\Documents\TestWork\Ales_lvl1\Ales_lvl1\obj\Debug\net5.0\Ales_lvl1.AssemblyInfo.cs
+C:\Users\BuNtaRT\Documents\TestWork\Ales_lvl1\Ales_lvl1\obj\Debug\net5.0\Ales_lvl1.csproj.CoreCompileInputs.cache
+C:\Users\BuNtaRT\Documents\TestWork\Ales_lvl1\Ales_lvl1\obj\Debug\net5.0\Ales_lvl1.dll
+C:\Users\BuNtaRT\Documents\TestWork\Ales_lvl1\Ales_lvl1\obj\Debug\net5.0\ref\Ales_lvl1.dll
+C:\Users\BuNtaRT\Documents\TestWork\Ales_lvl1\Ales_lvl1\obj\Debug\net5.0\Ales_lvl1.pdb
+C:\Users\BuNtaRT\Documents\TestWork\Ales_lvl1\Ales_lvl1\obj\Debug\net5.0\Ales_lvl1.genruntimeconfig.cache
